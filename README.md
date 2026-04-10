@@ -1,6 +1,6 @@
 # 2-MODE-CHARACTERISTICS-OF-REFLEX-KLYSTRON
 
-**Aim:**  
+**Aim:**
 
 To study mode characteristics of reflex klystron and hence to determine mode number,transit time electronic tuning range (ETR) and electronic tuning sensitivity (ETS)
 
@@ -75,9 +75,10 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 11.	After the completion of experiment, before leaving the bench switch off themains keep all the knobs in minimum position (i.e.) as those are in rule 2.
 12.	If the main supply failed in the middle of the experiment, come to 1st condition (i.e.)keep all the knobs in minimum positions and switch off main switches.
 13.	Don’t increase the repeller voltage more than -70V (i.e.) it should be between -70V to 270V.
-
-    **Result:**
-   	
+ TABULATION 
+   	<img width="920" height="1280" alt="image" src="https://github.com/user-attachments/assets/472ffe3c-abf5-4bc3-a9e4-e6138e2bdd4f" />
+RESULT
+      Thus the ouput of the klystron power supply is sucessfully excecuted
 			
 			
 			
